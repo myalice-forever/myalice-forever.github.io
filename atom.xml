@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://myalice-forever.github.io</id>
+    <title>myalice blog</title>
+    <updated>2022-07-03T14:09:17.309Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://myalice-forever.github.io"/>
+    <link rel="self" href="https://myalice-forever.github.io/atom.xml"/>
+    <subtitle>There&apos;s something here...</subtitle>
+    <logo>https://myalice-forever.github.io/images/avatar.png</logo>
+    <icon>https://myalice-forever.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, myalice blog</rights>
+    <entry>
+        <title type="html"><![CDATA[普通的阖家欢电影]]></title>
+        <id>https://myalice-forever.github.io/post/pu-tong-de-ge-jia-huan-dian-ying/</id>
+        <link href="https://myalice-forever.github.io/post/pu-tong-de-ge-jia-huan-dian-ying/">
+        </link>
+        <updated>2022-07-03T14:01:29.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>失去了丧葬行业的浓郁底色，《人生大事》只能算是亲情向的阖家欢电影。
+</code></pre>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>失去了丧葬行业的浓郁底色，《人生大事》只能算是亲情向的阖家欢电影。
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ Hello world]]></title>
+        <id>https://myalice-forever.github.io/post/hello-world/</id>
+        <link href="https://myalice-forever.github.io/post/hello-world/">
+        </link>
+        <updated>2022-06-29T00:16:42.000Z</updated>
+    </entry>
+</feed>
